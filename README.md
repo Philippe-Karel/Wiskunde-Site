@@ -1,1 +1,2 @@
-Hier worden alle word documenten opgeslagen, zodat wij het proces waarin wij gewerkt hebben kunnen noteren.
+Hier worden de enquêtes en hun excel/word bestanden opgeslagen.
+Het is mogelijk dat dit nooit gebruikt zal worden.
